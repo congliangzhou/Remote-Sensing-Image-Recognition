@@ -20,5 +20,6 @@ Application of Convolutional Neural Network in Remote Sensing Image Recognition
 --image_dir /tf_files/classification
 
 5.use the label_image.py to load my graph file and predicts with it. I put label_image.py in the folder of ty_files.
-   python /tf_files/label_image.py /tf_files/testpicture/*picture name
+  
+  python /tf_files/label_image.py /tf_files/testpicture/*picture name
 
