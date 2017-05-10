@@ -1,7 +1,6 @@
 # Remote-Sensing-Image-Recognition
 Application of Convolutional Neural Network in Remote Sensing Image Recognition
 
-
 1. Split the Texas Image and convert it to tiles. 
 
 2.Start Docker with local files available
