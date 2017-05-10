@@ -1,7 +1,7 @@
 # Remote-Sensing-Image-Recognition
 Application of Convolutional Neural Network in Remote Sensing Image Recognition
 
-1. Split the Texas Image and convert it to tiles. 
+1. Convert the Texas Image into PNG format and split it into small tiles
 
 2.Start Docker with local files available
 % docker run -it -v $HOME/tf_files:/tf_files  gcr.io/tensorflow/tensorflow:latest-devel        # my file: /tf_filesclassification/evergreen forest, shrub_scrub, cultivated_crops
